@@ -12,7 +12,7 @@ h4 {
     color: red;
 }
 
-#Camera {
+#camera {
     width: 500px;
     height: 400px;
     border: 2px solid black;
@@ -36,6 +36,8 @@ padding: 10px;
     bottom: 0;
     width: 100%;
     text-align: center;
+    background-color:rgba(21, 48, 201, 0.877) ;
+    color:white;
 }
 
 img:hover {
